@@ -16,6 +16,7 @@ To get started, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/abdulmuizz0903/Hadith-Verification-TG-Bot.git
+cd Hadith-Verification-TG-Bot/HadithScraper
 ```
 
 ### Dependencies
