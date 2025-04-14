@@ -66,7 +66,7 @@ A simple yet powerful Telegram bot for verifying Hadiths using their numbers —
 
 ```
 ├── hadith_bot.py         # Main bot script
-├── HadithScraper/        # Module for fetching Hadiths
+├── HadithScraper/        # Separate folder for the people who just want to access the Hadith Scraper.
 ├── requirements.txt      # Dependency list
 └── README.md             # Project info
 ```
